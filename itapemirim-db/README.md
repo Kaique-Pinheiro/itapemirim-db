@@ -16,7 +16,7 @@ The database was implemented and tested on **PostgreSQL via Supabase**.
 
 ## Repository Structure
 
-
+```
 itapemirim-db/
 ├── README.md
 ├── diagrams/
@@ -28,7 +28,7 @@ itapemirim-db/
 │   └── 03_consultas.sql         # Analytical SQL queries
 └── docs/
     └── regras_transformacao.md  # ER-to-Relational transformation rules
-
+```
 
 ---
 
