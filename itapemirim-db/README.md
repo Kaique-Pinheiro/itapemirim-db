@@ -71,6 +71,22 @@ itapemirim-db/
 | 5 | Occupancy rate per trip | Dynamic pricing and capacity optimization |
 
 ---
+## Query Results
+
+**Query 1 — Passengers and trip dates after 01/01/2023**
+![Query 1](assets/Consulta_01.png)
+
+**Query 2 — Trips per driver and average workload**
+![Query 2](assets/Consulta_02.png)
+
+**Query 3 — Routes with above-average distance**
+![Query 3](assets/Consulta_03.png)
+
+**Query 4 — Maintenance cost per vehicle**
+![Query 4](assets/Consulta_04.png)
+
+**Query 5 — Occupancy rate per trip**
+![Query 5](assets/Consulta_05.png)
 
 ## Technologies
 
