@@ -86,6 +86,7 @@ itapemirim-db/
 ![Query 4](assets/consulta_04.png)
 
 **Query 5 — Occupancy rate per trip**
+
 ![Query 5](assets/consulta_05.png)
 
 ## Technologies
