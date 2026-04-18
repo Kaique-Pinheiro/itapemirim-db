@@ -77,16 +77,16 @@ itapemirim-db/
 ![Query 1](assets/consulta_01.png)
 
 **Query 2 — Trips per driver and average workload**
-![Query 2](assets/Consulta_02.png)
+![Query 2](assets/consulta_02.png)
 
 **Query 3 — Routes with above-average distance**
-![Query 3](assets/Consulta_03.png)
+![Query 3](assets/consulta_03.png)
 
 **Query 4 — Maintenance cost per vehicle**
-![Query 4](assets/Consulta_04.png)
+![Query 4](assets/consulta_04.png)
 
 **Query 5 — Occupancy rate per trip**
-![Query 5](assets/Consulta_05.png)
+![Query 5](assets/consulta_05.png)
 
 ## Technologies
 
