@@ -74,7 +74,7 @@ itapemirim-db/
 ## Query Results
 
 **Query 1 — Passengers and trip dates after 01/01/2023**
-![Query 1](assets/Consulta_01.png)
+![Query 1](assets/consulta_01.png)
 
 **Query 2 — Trips per driver and average workload**
 ![Query 2](assets/Consulta_02.png)
