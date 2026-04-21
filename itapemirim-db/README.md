@@ -73,19 +73,19 @@ itapemirim-db/
 ---
 ## Query Results
 
-**Query 1 — Passengers and trip dates after 01/01/2023**
+**Query 1 : Passengers and trip dates after 01/01/2023**
 ![Query 1](assets/consulta_01.png)
 
-**Query 2 — Trips per driver and average workload**
+**Query 2 : Trips per driver and average workload**
 ![Query 2](assets/consulta_02.png)
 
-**Query 3 — Routes with above-average distance**
+**Query 3 : Routes with above-average distance**
 ![Query 3](assets/consulta_03.png)
 
-**Query 4 — Maintenance cost per vehicle**
+**Query 4 : Maintenance cost per vehicle**
 ![Query 4](assets/consulta_04.png)
 
-**Query 5 — Occupancy rate per trip**
+**Query 5 : Occupancy rate per trip**
 
 ![Query 5](assets/consulta_05.png)
 
@@ -97,9 +97,9 @@ itapemirim-db/
 
 ## Technologies
 
-- **PostgreSQL** — relational database
-- **Supabase** — cloud database hosting
-- **SQL** — DDL, DML and analytical queries
+- **PostgreSQL** : relational database
+- **Supabase** : cloud database hosting
+- **SQL** : DDL, DML and analytical queries
 
 ---
 
@@ -118,4 +118,4 @@ Full documentation in [`docs/regras_transformacao.md`](docs/regras_transformacao
 ##  Authors
 
 Developed by **Kaique Pinheiro** and **Vinícius Purcinel**
-FEI University — Computer Science & AI — 2025
+FEI University, Computer Science & AI — 2025
